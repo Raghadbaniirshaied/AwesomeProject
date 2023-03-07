@@ -14,8 +14,6 @@ const [people, setpeople] = useState([
 ]);
 
 
-
-
   return (
     <View style={styles.container}>
 
